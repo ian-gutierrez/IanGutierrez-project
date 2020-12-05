@@ -1,6 +1,6 @@
-﻿,,,,,,,,,,,,,,,,,,2-Pt Field Goals,,,,,3-Pt Field Goals,,,,
-,,,,,,% of FGA by Distance,,,,,,FG% by Distance,,,,,,,Dunks,,Layups,,,Corner,,Heaves,
-Rk,Team,G,MP,FG%,Dist.,2P,0-3,3-10ft,10-16ft,16-3pt,3P,2P,0-3,3-10ft,10-16ft,16-3pt,3P,%Ast'd,%FGA,Md.,%FGA,Md.,%Ast'd,%3PA,3P%,Att.,Md.
+﻿,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rk,Team,G,MP,FG%,Dist.,2P (% of FGA by Distance) ,0-3 % (of FGA by Distance),3-10ft (% of FGA by Distance),10-16ft (% of FGA by Distance),16-3pt (% of FGA by Distance),3P (% of FGA by Distance),2P (FG% by Distance),0-3 (FG% by Distance),3-10ft (FG% by Distance),10-16ft (FG% by Distance),16-3pt (FG% by Distance),3P (FG% by Distance),%Ast'd (2pt FG's),%FGA (Dunks),Md. (Dunks),%FGA (Dunks),Md. (Dunks),%Ast'd (3pt FG's),%3PA (Corner),3P% (Corner),Att. (Heaves),Md. (Heaves)
 1,Atlanta Hawks,67,16280,0.449,14.1,0.602,0.291,0.155,0.097,0.059,0.398,0.525,0.658,0.414,0.394,0.376,0.333,0.525,0.086,448,0.268,829,0.743,0.201,0.342,13,1
 2,Boston Celtics*,72,17430,0.461,13.9,0.614,0.276,0.173,0.094,0.071,0.386,0.522,0.662,0.387,0.437,0.416,0.364,0.491,0.053,302,0.307,1039,0.707,0.181,0.396,22,0
 3,Brooklyn Nets*,72,17480,0.448,13.8,0.577,0.315,0.15,0.07,0.042,0.423,0.524,0.651,0.358,0.381,0.413,0.343,0.518,0.068,383,0.318,1061,0.789,0.213,0.369,13,0
